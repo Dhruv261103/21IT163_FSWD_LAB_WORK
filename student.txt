@@ -1,0 +1,7 @@
+Name, CGPA
+John Doe,8.2
+Mary Adams,7.5
+Emma Martinez,6.8
+Mark Johnson,7.9
+Michael Anderson,9.1
+Sophia Thompson,8.7
